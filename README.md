@@ -1,3 +1,7 @@
+# Responsive Images
+
+This fork is a student's version of the original assignment made by Adi Purdila. His README is down below.
+
 ### Tuts+ Open Assignment: Understanding Responsive Images
 #### Instructor: Adi Purdila
 
